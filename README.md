@@ -4,4 +4,4 @@ This project implements a two-wheeled self-balancing robot using an Arduino, an 
 
 Visually the robot is still an abomination, however the design will improve...
 
-[robot_image](assets/robot_image.jpg)
+![robot_image](assets/robot_image.jpg)
